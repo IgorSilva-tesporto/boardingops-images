@@ -35,7 +35,7 @@ mvymcompass_laudo_01.png
 mvymcompass_opo_des_01.png
 ```
 
-## ⚠️ Boas Ações
+## ⚠️ Boas Práticas
 - Preferir imagens com tamanho inferior a 2MB  
 - Manter padronização do repositório  
 - Evitar estruturas complexas de pastas  
