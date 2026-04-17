@@ -1,17 +1,17 @@
-# 📊 Power BI Image Repository
+# 📊 Repositório de Imagens do Power BI
 
 Repositório destinado ao armazenamento de imagens utilizadas no dashboard **Operação Embarque.**
 
-## 📌 Objective
+## 📌 Objetivo
 Centralizar e disponibilizar imagens de forma pública e estável, permitindo sua integração direta com o Power BI por meio de URLs no formato RAW.
 
-## 🧩 Structure
+## 🧩 Estrutura
 Todas as imagens estão armazenadas na pasta:
 ```
 /imagens
 ```
 
-## 🔗 Usage in Power BI
+## 🔗 Uso no Power BI
 As imagens devem ser acessadas utilizando o formato de URL RAW do GitHub:
 
 ```
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/{usuario}/{repositorio}/main/imagens/{nome_arq
 
 Esses links devem ser utilizados como **Image URL** no **:contentReference[oaicite:1]{index=1}**.
 
-## ⚙️ Naming Convention
+## ⚙️ Padronização dos Arquivos
 Para garantir consistência:
 
 - Utilizar apenas letras minúsculas  
@@ -28,20 +28,18 @@ Para garantir consistência:
 - Evitar acentos e caracteres especiais (usar `_`  como parentese)
 - Manter nomes descritivos, únicos e manter o padrão  
 
-### ✔️ Example:
+### ✔️ Exemplo:
 ```
 1-mvymcompass_porao_01.png
-1-mvymcompass_laudo_01.png
 1-mvymcompass_opo_des_01.png
 2-mvhonordiva_porao_01.png
-2-mvhonordiva_laudo_01.png
 2-mvhonordiva_opo_des_01.png
 ```
 
-## ⚠️ Best Practices
+## ⚠️ Boas Práticas
 - Preferir imagens com tamanho inferior a 2MB  
 - Manter padronização do repositório  
 - Evitar estruturas complexas de pastas  
 
-## 🚀 Note
+## 🚀 Observação
 Este repositório é utilizado exclusivamente como suporte ao dashboard e não possui finalidade de versionamento de código.
