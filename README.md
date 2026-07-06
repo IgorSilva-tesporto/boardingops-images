@@ -3,7 +3,7 @@
 Repositório destinado ao armazenamento de imagens utilizadas no dashboard **Operação Embarque.**
 
 ## 📌 Objetivo
-Centralizar e disponibilizar imagens de forma pública e estável, permitindo sua integração direta com o Power BI por meio de URLs no formato RAW.
+Disponibilizar imagens de forma pública e estável, permitindo sua integração direta com o Power BI por meio de URLs no formato RAW.
 
 ## 🧩 Estrutura
 Todas as imagens estão armazenadas na pasta:
@@ -34,6 +34,7 @@ Para garantir consistência:
 1-mvymcompass_opo_des_01.png
 2-mvhonordiva_porao_01.png
 2-mvhonordiva_opo_des_01.png
+...
 ```
 
 ## ⚠️ Boas Práticas
