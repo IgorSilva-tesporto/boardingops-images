@@ -29,7 +29,7 @@ Para garantir consistência:
 
 - Utilizar apenas letras minúsculas
 - Adicionar arquivos no formato PNG (tirar print ou usar o site `I Love IMG`)
-- Não incluir "MV" no nome do arquivo, independente do nome do navio
+- Não incluir `MV` no nome do arquivo, independente do nome do navio
 - Não utilizar espaços
 - Utilizar `_` para separar a descrição do arquivo
 - Evitar acentos e caracteres especiais 
