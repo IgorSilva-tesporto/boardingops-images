@@ -16,13 +16,13 @@ Todas as imagens estão armazenadas na pasta:
 ```
 
 ## Uso no Power BI
-As imagens devem ser acessadas utilizando o formato de URL RAW do GitHub:
+As imagens devem ser visualizadas utilizando o formato de URL RAW do GitHub:
 
 ```
 https://raw.githubusercontent.com/{usuario}/{repositorio}/main/imagens/{nome_arquivo}
 ```
 
-Esses links devem ser utilizados como **Image URL** no **:contentReference[oaicite:1]{index=1}**.
+Isso permite o link dar imagem no BI.
 
 ## Padronização dos Arquivos
 Para garantir consistência:
@@ -34,18 +34,35 @@ Para garantir consistência:
 
 ### Exemplo:
 ```
-1-mvymcompass_porao_01.png
-1-mvymcompass_opo_des_01.png
-2-mvhonordiva_porao_01.png
-2-mvhonordiva_opo_des_01.png
-...
+1-ymcompass_porao_01.png
+1-ymcompass_opo_des_01.png
+1-ymcompass_armazenado.png
+1-ymcompass_exportado.png
+etc...
+```
+Se o mesmo navio atracar denovo no terminal, adicionar "(x)" onde "x" é quantidade de vezes em que ele atracou.
+```
+02/01/2026: YM COMPASS
+07/05/2026: YM COMPASS (2)
+
+O ID não pode ser o mesmo de antes.
+```
+Se ele desatracar e atracar de novo em um período curto de tempo (você será notificado quando isso ocorrer), adicionar, nos arquivos (porão, oportunidades e desvio, exportado e armazenado) "-2a" ao final do nome.
+```
+05/02/2026: 10-rotterdam
+06/02/2026: 11-honor diva
+08/02/2026: 12-rotterdam-2a
+
+O ID não pode ser o mesmo de antes.
 ```
 
 ## Boas Práticas
+- Nunca incluir "MV" no nome do arquivo, independente do nome do navio
 - Preferir imagens com tamanho inferior a 2MB  
 - Manter padronização do repositório  
-- Evitar estruturas complexas de pastas  
+- Evitar estruturas complexas de pastas
 
+---
 ## Observação
 Este repositório é utilizado exclusivamente como suporte ao dashboard e não possui finalidade de versionamento de código.
 
