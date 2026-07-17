@@ -29,8 +29,9 @@ Para garantir consistência:
 
 - Utilizar apenas letras minúsculas  
 - Não utilizar espaços (usar `-`  como espaço)
-- Evitar acentos e caracteres especiais (usar `_`  como parentese)
-- Manter nomes descritivos, únicos e manter o padrão  
+- Utilizar `_`  como parentese
+- Evitar acentos e caracteres especiais 
+- Manter nomes os padronizados  
 
 ### Exemplo:
 ```
