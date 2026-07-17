@@ -1,6 +1,6 @@
 ---
 
-# REPOSITÓRIO DE IMAGENS - Operação Embarque (BI)
+# REPOSITÓRIO DE IMAGENS
 
 ---
 
