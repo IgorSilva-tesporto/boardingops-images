@@ -27,11 +27,12 @@ Isso permite o link dar imagem no BI.
 ## Padronização dos Arquivos
 Para garantir consistência:
 
-- Utilizar apenas letras minúsculas  
+- Utilizar apenas letras minúsculas
+- Adicionar arquivos no formato PNG (tirar print ou usar o site `I Love IMG`
 - Não utilizar espaços
 - Utilizar `_` para separar a descrição do arquivo
 - Evitar acentos e caracteres especiais 
-- Manter nomes os padronizados  
+- Manter nomes os padronizados
 
 ### Exemplo:
 ```
