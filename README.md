@@ -28,8 +28,8 @@ Isso permite o link dar imagem no BI.
 Para garantir consistência:
 
 - Utilizar apenas letras minúsculas  
-- Não utilizar espaços (usar `-`  como espaço)
-- Utilizar `_`  como parentese
+- Não utilizar espaços
+- Utilizar `_` para separar a descrição do arquivo
 - Evitar acentos e caracteres especiais 
 - Manter nomes os padronizados  
 
@@ -42,6 +42,10 @@ NAVIO: MV YM COMPASS
 1-ymcompass_exportado.png
 
 NAVIO: HONOR DIVA
+2-honordiva_porao_01.png
+2-honordiva_opo_des_01.png
+2-honordiva_armazenado.png
+2-honordiva_exportado.png
 ```
 Se o mesmo navio atracar denovo no terminal, adicionar "(x)" onde "x" é quantidade de vezes em que ele atracou.
 ```
