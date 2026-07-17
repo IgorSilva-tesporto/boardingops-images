@@ -27,11 +27,11 @@ Isso permite o link dar imagem no BI.
 ## Padronização dos Arquivos
 Para garantir consistência:
 
-- Utilizar apenas letras minúsculas
+- Não utilizar espaços, caracteres sempre juntos
 - Adicionar arquivos no formato PNG (tirar print ou usar o site `I Love IMG`)
 - Não incluir `MV` no nome do arquivo, independente do nome do navio
-- Não utilizar espaços nos nomes dos arquivos
 - Utilizar `_` para separar a descrição do arquivo
+- Utilizar apenas letras minúsculas
 - Evitar acentos e caracteres especiais 
 - Manter nomes os padronizados
 
