@@ -35,11 +35,13 @@ Para garantir consistência:
 
 ### Exemplo:
 ```
+NAVIO: MV YM COMPASS
 1-ymcompass_porao_01.png
 1-ymcompass_opo_des_01.png
 1-ymcompass_armazenado.png
 1-ymcompass_exportado.png
-etc...
+
+NAVIO: HONOR DIVA
 ```
 Se o mesmo navio atracar denovo no terminal, adicionar "(x)" onde "x" é quantidade de vezes em que ele atracou.
 ```
