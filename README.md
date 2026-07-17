@@ -29,6 +29,7 @@ Para garantir consistência:
 
 - Utilizar apenas letras minúsculas
 - Adicionar arquivos no formato PNG (tirar print ou usar o site `I Love IMG`)
+- Não incluir "MV" no nome do arquivo, independente do nome do navio
 - Não utilizar espaços
 - Utilizar `_` para separar a descrição do arquivo
 - Evitar acentos e caracteres especiais 
@@ -65,7 +66,6 @@ O ID não pode ser o mesmo de antes.
 ```
 
 ## Boas Práticas
-- Nunca incluir "MV" no nome do arquivo, independente do nome do navio
 - Preferir imagens com tamanho inferior a 2MB  
 - Manter padronização do repositório  
 - Evitar estruturas complexas de pastas
