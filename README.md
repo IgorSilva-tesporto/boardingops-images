@@ -1,5 +1,5 @@
 
-<h1 align="center">REPOSIÓRIO DE IMAGENS</h1>
+<h1 align="center">BI - Repositório de Imagens</h1>
 
 ---
 
