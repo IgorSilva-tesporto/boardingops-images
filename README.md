@@ -1,6 +1,5 @@
----
 
-# REPOSITÓRIO DE IMAGENS
+<h1 align="center">REPOSIÓRIO DE IMAGENS</h1>
 
 ---
 
@@ -73,5 +72,3 @@ O ID não pode ser o mesmo de antes.
 ---
 ## Observação
 Este repositório é utilizado exclusivamente como suporte ao dashboard e não possui finalidade de versionamento de código.
-
----
