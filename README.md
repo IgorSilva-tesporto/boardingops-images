@@ -1,5 +1,5 @@
 
-<h1 align="center">BI - Repositório de Imagens</h1>
+<h1 align="center">Power BI - Repositório de Imagens</h1>
 
 ---
 
